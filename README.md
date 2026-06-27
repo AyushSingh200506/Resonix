@@ -45,10 +45,6 @@ npm install
 npm run dev
 ```
 
-## 📸 Preview
-
-> Add screenshots or GIFs here after deployment.
-
 ## 📌 Future Improvements
 
 * [ ] Backend Development
