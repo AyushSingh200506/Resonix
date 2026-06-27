@@ -1,16 +1,64 @@
-# React + Vite
+# 🎵 Resonix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Resonix – Responsive Music Streaming Web Application**
 
-Currently, two official plugins are available:
+Resonix is a responsive Spotify-inspired music streaming web application built using **React**, **Vite**, and **Tailwind CSS**. It focuses on delivering a clean UI, reusable components, and a smooth user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> 🚧 **Status:** Frontend Completed | Backend Under Development
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 🌐 **Website:** https://resonix-n5tut9cs9-ayush2005.vercel.app
+* 💻 **Repository:** https://github.com/AyushSingh200506/Resonix
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* 🎵 Spotify-inspired UI
+* 📱 Fully Responsive Design
+* 🎧 Music Player Interface
+* 🎼 Album & Playlist Sections
+* ⚛️ Reusable React Components
+* 🎨 Tailwind CSS Styling
+
+### 🔜 Coming Soon
+
+* Authentication
+* Backend Integration
+* Playlist Management
+* Search Functionality
+* Like Songs
+* User Profiles
+
+## 🛠️ Tech Stack
+
+* React.js
+* Vite
+* Tailwind CSS
+* JavaScript (ES6+)
+
+## ⚙️ Getting Started
+
+```bash
+git clone https://github.com/AyushSingh200506/Resonix.git
+cd Resonix
+npm install
+npm run dev
+```
+
+## 📸 Preview
+
+> Add screenshots or GIFs here after deployment.
+
+## 📌 Future Improvements
+
+* [ ] Backend Development
+* [ ] MongoDB Integration
+* [ ] Authentication
+* [ ] Music Streaming APIs
+* [ ] Playlist & Favorites
+
+## 👨‍💻 Author
+
+**Ayush Singh**
+
+⭐ If you like this project, consider starring the repository!
